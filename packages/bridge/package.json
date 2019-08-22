@@ -1,6 +1,6 @@
 {
-  "name": "bridge",
-  "version": "0.0.1",
+  "name": "@toolbox/bridge",
+  "version": "1.0.2",
   "description": "顺丰应用原生API调用工具库",
   "keywords": [
     "native",
@@ -30,5 +30,6 @@
   },
   "bugs": {
     "url": "https://github.com/sf-freight/toolbox/issues"
-  }
+  },
+  "gitHead": "2a60aef4f6c228aee500aca8fb6532e73acb5473"
 }

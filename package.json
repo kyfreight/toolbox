@@ -1,0 +1,34 @@
+{
+  "name": "toolbox",
+  "version": "1.0.1",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sf-freight/toolbox.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "focus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sf-freight/toolbox/issues"
+  },
+  "publishConfig": {
+    "registry": "http://artifactory.sf-express.com/artifactory/api/npm/npm-sf-local/"
+  },
+  "homepage": "https://github.com/sf-freight/toolbox#readme",
+  "devDependencies": {
+    "lerna": "^3.16.4"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "description": "",
+  "dependencies": {
+    "bridge": "^0.2.7"
+  }
+}

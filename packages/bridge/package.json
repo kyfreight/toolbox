@@ -1,0 +1,34 @@
+{
+  "name": "bridge",
+  "version": "0.0.1",
+  "description": "顺丰应用原生API调用工具库",
+  "keywords": [
+    "native",
+    "api",
+    "bridge"
+  ],
+  "author": "01211115 <weigaohuang@sfmail.sf-express.com>",
+  "homepage": "https://github.com/sf-freight/toolbox/tree/master/packages/bridge#readme",
+  "license": "ISC",
+  "main": "lib/bridge.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://artifactory.sf-express.com/artifactory/api/npm/npm-sf-local/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sf-freight/toolbox.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/sf-freight/toolbox/issues"
+  }
+}

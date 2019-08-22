@@ -1,6 +1,6 @@
 {
   "name": "@toolbox/bridge",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "顺丰应用原生API调用工具库",
   "keywords": [
     "native",
